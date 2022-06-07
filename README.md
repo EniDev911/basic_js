@@ -1,1 +1,3 @@
 # basic_js
+
+## exercises
